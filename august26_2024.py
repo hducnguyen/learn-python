@@ -10,3 +10,8 @@ print(game_set2)
 
 # Tuples - immutable/unchangable list
 game_tuples = ("valorant", "lq")
+
+
+# dictionary
+# 'dictionary'.get(key) => prevent error
+#  can only change value with direct access
